@@ -7,7 +7,8 @@ As your bookmark list continues to expand, the challenge of finding the right bo
 ## Getting Started
 1. Start by exporting your Chrome bookmarks and saving them as a file on your local system.
 2. Rename the file to "out.html" and copy it to the project directory. Then, install the required dependencies by running "pip install -r requirements.txt"
-3. The "out.html" file has now been enriched with context. You can now import it back into Chrome.
-4. When searching in the address bar, simply prefix your query with a hash tag (#), and Chrome will intelligently suggest related bookmarks.
+3. run by >python final.py
+4. The "out.html" file has now been enriched with context. You can now import it back into Chrome.
+5. When searching in the address bar, simply prefix your query with a hash tag (#), and Chrome will intelligently suggest related bookmarks.
 
 
